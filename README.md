@@ -1,0 +1,2 @@
+# gitjs
+git init
